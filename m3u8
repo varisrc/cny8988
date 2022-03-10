@@ -1,8 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="央视高清"
-#EXTINF:-1 ,CCTV-4K http://iptv.tvfix.org/hls/cctv4k.m3u8
-#EXTINF:-1 CCTV-1高清,http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 ,CCTV-4K
+http://iptv.tvfix.org/hls/cctv4k.m3u8
+#EXTINF:-1 ,CCTV-1高清
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 CCTV-1香港版高清,http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
 #EXTINF:-1 CCTV-2高清,http://iptv.tvfix.org/hls/cctv2hd.m3u8
 #EXTINF:-1 CCTV-3高清,http://iptv.tvfix.org/hls/cctv3hd.m3u8
