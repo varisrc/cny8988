@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,"央视高清"
+#EXTINF:-1,"++++++央视高清++++++"
 https://assets.mixkit.co/videos/preview/mixkit-chinatown-at-night-time-4261-large.mp4
 #EXTINF:-1,CCTV-4K
 http://iptv.tvfix.org/hls/cctv4k.m3u8
@@ -55,7 +55,7 @@ http://iptv.tvfix.org/hls/cgtnahd.m3u8
 #EXTINF:-1,CGTN西班牙语高清
 http://iptv.tvfix.org/hls/cgtnxhd.m3u8
 
-#EXTINF:-1,"卫视高清"
+#EXTINF:-1,"++++++卫视高清++++++"
 https://assets.mixkit.co/videos/preview/mixkit-shanghai-river-and-city-skyscrapers-illuminated-20107-large.mp4
 #EXTINF:-1,北京卫视高清
 http://iptv.tvfix.org/hls/brtv1hd.m3u8
@@ -108,7 +108,7 @@ http://iptv.tvfix.org/hls/lyhd.m3u8
 #EXTINF:-1,贵州卫视高清
 http://iptv.tvfix.org/hls/gzhd.m3u8
 
-#EXTINF:-1,"地方频道"
+#EXTINF:-1,"++++++地方频道++++++"
 https://assets.mixkit.co/videos/preview/mixkit-shenzhen-illuminated-buildings-and-traffic-20152-large.mp4
 #EXTINF:-1,北京文艺高清
 http://iptv.tvfix.org/hls/brtv2hd.m3u8
@@ -137,7 +137,7 @@ http://iptv.tvfix.org/hls/shdspdhd.m3u8
 #EXTINF:-1,上海外语频道高清
 http://iptv.tvfix.org/hls/shwypdhd.m3u8,
 
-#EXTINF:-1,"特色频道"
+#EXTINF:-1,"++++++特色频道++++++"
 https://assets.mixkit.co/videos/preview/mixkit-chengdu-business-district-at-night-28691-large.mp4
 #EXTINF:-1,清华电视台
 http://iptv.tvfix.org/hls/tsinghuatv.m3u8
@@ -174,7 +174,7 @@ http://iptv.tvfix.org/hls/xdmtv.m3u8
 #EXTINF:-1,足球频道
 http://iptv.tvfix.org/hls/zqhd.m3u8
 
-#EXTINF:-1,"测试频道"
+#EXTINF:-1,"++++++测试频道++++++"
 https://assets.mixkit.co/videos/preview/mixkit-large-paper-lamp-in-the-street-4109-large.mp4
 #EXTINF:-1,翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
@@ -301,7 +301,7 @@ http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1,Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
 
-#EXTINF:-1,"其他标清"
+#EXTINF:-1,"++++++其他标清++++++"
 https://assets.mixkit.co/videos/preview/mixkit-shanghai-river-and-illuminated-city-buildings-20101-large.mp4
 #EXTINF:-1,CCTV-1综合 
 http://iptv.tvfix.org/hls/cctv1.m3u8
